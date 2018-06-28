@@ -1,5 +1,4 @@
 var MongoClient = require('mongodb').MongoClient;
-// var ObjectID = require('mongodb').ObjectID;
 
 var state = {
   db: null
